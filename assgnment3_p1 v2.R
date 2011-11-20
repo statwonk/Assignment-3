@@ -5,7 +5,7 @@ install.packages("ggplot2")
 library(foreach)
 library(ggplot2)
 
-bleed.data <- read.csv("C:\\Users\\Chris\\School\\EXST Reliability and Survival Analysis\\JMPCourseReliabilityDataSets\\JMPCourseReliabilityDataSets\\BleedSystem.csv")
+bleed.data <- read.csv("C:\\Users\\Chris\\School\\EXST_Reliability_and_Survival_Analysis\\JMPCourseReliabilityDataSets\\JMPCourseReliabilityDataSets\\BleedSystem.csv")
 
 # Calculate the number that enter each time period
 num.begin.units <- sum(bleed.data$Weight)
