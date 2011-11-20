@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  20 NOV 2011 12:38
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  20 NOV 2011 15:15
 entering extended mode
-**C:/Users/Chris/School/EXST*Reliability*and*Survival*Analysis/Assignment*3/ass
+**C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/ass
 ignment3_sweave.tex
 
-("C:/Users/Chris/School/EXST Reliability and Survival Analysis/Assignment 3/ass
-ignment3_sweave.tex"
+(C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assi
+gnment3_sweave.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -527,8 +527,8 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 ))))
-("C:\Users\Chris\School\EXST Reliability and Survival Analysis\Assignment 3\ass
-ignment3_sweave.aux")
+(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Assignment_3\assi
+gnment3_sweave.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -583,10 +583,10 @@ Package pdftex.def Info: assignment3_sweave-004.pdf used on input line 41.
 [1
 
 {C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/User
-s/Chris/School/EXST Reliability and Survival Analysis/Assignment 3/assignment3_
+s/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assignment3_
 sweave-004.pdf>]
-("C:\Users\Chris\School\EXST Reliability and Survival Analysis\Assignment 3\ass
-ignment3_sweave.aux") ) 
+(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Assignment_3\assi
+gnment3_sweave.aux) ) 
 Here is how much of TeX's memory you used:
  4220 strings out of 494045
  60121 string characters out of 3145968
@@ -595,14 +595,14 @@ Here is how much of TeX's memory you used:
  19436 words of font info for 49 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  36i,6n,38p,375b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msltt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy10.pfb>
-Output written on assignment3_sweave.pdf (2 pages, 94306 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+ltt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on assignment3_sweave.pdf (2 pages, 94291 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
