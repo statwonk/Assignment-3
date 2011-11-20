@@ -4,6 +4,7 @@ install.packages("foreach")
 install.packages("ggplot2")
 library(foreach)
 library(ggplot2)
+library(xtable)
 
 bleed.data <- read.csv("C:\\Users\\Chris\\School\\EXST_Reliability_and_Survival_Analysis\\JMPCourseReliabilityDataSets\\JMPCourseReliabilityDataSets\\BleedSystem.csv")
 
@@ -34,4 +35,7 @@ bleed.data[1, 8] <- 1
 foreach(i = 2:60) %do%
   (bleed.data[ i , 8] <- (bleed.data[ i, 7] * bleed.data[ i - 1, 8]))
 
-qplot(Hours, KM, data = bleed.data)
+names(bleed.data)[names(bleed.data) == "V8"] <- "KM"
+
+ggplot(bleed.data, aes(Hours, KM)) + geom_point() + opts(aspect.ratio = 2/(1 + sqrt(5)) )
+

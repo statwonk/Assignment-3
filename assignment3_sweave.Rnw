@@ -71,10 +71,33 @@ foreach(i = 2:60) %do%
 names(bleed.data)[names(bleed.data) == "V8"] <- "KM"
 @
 
+\SweaveOpts{width = 8, height = 5}
+\begin{figure}[htbp]
 \begin{center}
-<<fig=T>>=
-print(qplot(Hours, KM, data = bleed.data))
+<<fig=T, echo = F>>=
+print(ggplot(bleed.data, aes(Hours, KM)) + 
+        geom_point() +
+        opts(aspect.ratio = 2/(1+sqrt(5)) ) +
+        opts(axis.title.x = theme_text(size = 12, vjust = -0.2),
+             axis.title.y = theme_text(angle = 90, vjust = 0.2, size = 12)) +
+        opts(axis.text.x = theme_text(size = 12, colour = "#000000"),
+             axis.text.y = theme_text(size = 12, colour = "#000000")) +
+        opts(plot.background = theme_rect(fill = "grey80", 
+        colour = NA)) +
+        opts(panel.grid.major = theme_line(size = 0.1)))
 @
+\caption{Figure 1: Kaplan-Meier Estimates}
 \end{center}  
+\end{figure}
 
+\begin{center}
+<<label = tab1, echo = FALSE, results = tex>>=
+library(xtable)
+print(xtable(bleed.data[c(1:10, c("."),50:60) , -c(4)],
+             caption = "Kaplan-Meier Computations",
+             label = "tab:one",
+             digit = c(0, 0, 0, 0, 0, 0, 8, 8)
+             ))
+@
+\end{center}
 \end{document}

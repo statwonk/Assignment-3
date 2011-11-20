@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  20 NOV 2011 15:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  20 NOV 2011 17:20
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/ass
 ignment3_sweave.tex
@@ -572,39 +572,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--28
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+aett on input line 37.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
-File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-) <assignment3_sweave-004.pdf, id=1, 433.62pt x 433.62pt>
+<assignment3_sweave-004.pdf, id=1, 578.16pt x 361.35pt>
 File: assignment3_sweave-004.pdf Graphic file (type pdf)
 <use assignment3_sweave-004.pdf>
-Package pdftex.def Info: assignment3_sweave-004.pdf used on input line 41.
-(pdftex.def)             Requested size: 276.00105pt x 276.0139pt.
+Package pdftex.def Info: assignment3_sweave-004.pdf used on input line 38.
+(pdftex.def)             Requested size: 276.00105pt x 172.49767pt.
+
+Overfull \hbox (20.24783pt too wide) in paragraph at lines 48--76
+ [] 
+ []
+
 [1
 
-{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/User
-s/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assignment3_
-sweave-004.pdf>]
+{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ch
+ris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assignment3_swea
+ve-004.pdf>] [2]
 (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Assignment_3\assi
 gnment3_sweave.aux) ) 
 Here is how much of TeX's memory you used:
- 4220 strings out of 494045
- 60121 string characters out of 3145968
- 108309 words of memory out of 3000000
- 7448 multiletter control sequences out of 15000+200000
- 19436 words of font info for 49 fonts, out of 3000000 for 9000
+ 4202 strings out of 494045
+ 59806 string characters out of 3145968
+ 116309 words of memory out of 3000000
+ 7436 multiletter control sequences out of 15000+200000
+ 19078 words of font info for 48 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,6n,38p,375b,241s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,7n,38p,375b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-ltt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
 y10.pfb>
-Output written on assignment3_sweave.pdf (2 pages, 94291 bytes).
+Output written on assignment3_sweave.pdf (2 pages, 85887 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
