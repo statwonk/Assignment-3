@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  3 DEC 2011 15:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  3 DEC 2011 16:13
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/ass
-ignment3_sweave.tex
+ignment3_sweave_2.tex
 
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assi
-gnment3_sweave.tex
+gnment3_sweave_2.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -533,7 +533,7 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 ))))
 (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Assignment_3\assi
-gnment3_sweave.aux)
+gnment3_sweave_2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -572,16 +572,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--31
 
  []
 
-<assignment3_sweave-004.pdf, id=1, 578.16pt x 361.35pt>
-File: assignment3_sweave-004.pdf Graphic file (type pdf)
-<use assignment3_sweave-004.pdf>
-Package pdftex.def Info: assignment3_sweave-004.pdf used on input line 41.
+<assignment3_sweave_2-004.pdf, id=1, 578.16pt x 361.35pt>
+File: assignment3_sweave_2-004.pdf Graphic file (type pdf)
+<use assignment3_sweave_2-004.pdf>
+Package pdftex.def Info: assignment3_sweave_2-004.pdf used on input line 41.
 (pdftex.def)             Requested size: 375.80544pt x 234.87471pt.
 [1
 
 {C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ch
 ris/School/EXST_Reliability_and_Survival_Analysis/Assignment_3/assignment3_swea
-ve-004.pdf>]
+ve_2-004.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
@@ -593,18 +593,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
 [2]
 (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Assignment_3\assi
-gnment3_sweave.aux) ) 
+gnment3_sweave_2.aux) ) 
 Here is how much of TeX's memory you used:
- 4252 strings out of 494045
- 60712 string characters out of 3145968
- 116460 words of memory out of 3000000
- 7472 multiletter control sequences out of 15000+200000
- 24858 words of font info for 59 fonts, out of 3000000 for 9000
+ 4256 strings out of 494045
+ 60769 string characters out of 3145968
+ 118460 words of memory out of 3000000
+ 7473 multiletter control sequences out of 15000+200000
+ 27012 words of font info for 62 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,7n,38p,394b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+ 36i,12n,38p,396b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
@@ -612,9 +613,9 @@ cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb
 ><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on assignment3_sweave.pdf (2 pages, 129540 bytes).
+Output written on assignment3_sweave_2.pdf (2 pages, 142921 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

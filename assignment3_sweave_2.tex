@@ -38,14 +38,14 @@ JMP or RSPLIDA) to check your answers.\\
 
 \begin{figure}[htbp]
 \begin{center}
-\includegraphics{assignment3_sweave-004}
+\includegraphics{assignment3_sweave_2-004}
 \caption{Figure 1: Kaplan-Meier Estimates}
 \end{center}  
 \end{figure}
 
 \begin{center}
 % latex table generated in R 2.13.1 by xtable 1.6-0 package
-% Sat Dec 03 15:37:13 2011
+% Sat Dec 03 16:13:22 2011
 \begin{table}[ht]
 \begin{center}
 \begin{tabular}{rrlrrrrr}
@@ -88,18 +88,18 @@ The natural logarithm of a Weibull random variable has a smallest extreme value 
 
 Starting with a Weibull CDF:\\
 
-\begin{center}
-
 \begin{Large}
-  \begin{math}
-    1 - exp[(-\frac{x}{\beta})^{\beta}]\
-      \linebreak
-      \linebreak
-    1 - exp[-(\frac{exp(x)}{exp(\mu)})^{\frac{1}{\sigma}}]
-  \end{math}
+  \begin{align}
+      1 - exp[(-\frac{x}{\eta})^{\beta}]\\
+      \text{But we're given:} \hspace{.25 cm} 
+                            \beta = \frac{1}{\sigma} 
+                              \hspace{.25 cm}  \text{and} \hspace{.25 cm}
+                             \eta = exp(\mu)\\
+      1 - exp\Bigl[-\Bigl(\frac{exp(x)}{exp(\mu)}\Bigr)^{\frac{1}{\sigma}}\Bigr]\\
+      1 - exp\Bigl[-exp\Bigl(\frac{x - \mu}{\sigma})\Bigr]\\
+      1 - exp\Bigl[-exp\Bigl(\frac{x - \mu)}{\sigma}\Bigr)\Bigr] \longrightarrow \Phi_{SEV}
+  \end{align}
 \end{Large}
-
-\end{center}
 
 
 
